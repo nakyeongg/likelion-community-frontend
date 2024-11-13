@@ -5,7 +5,6 @@ import { Board } from '@components/Board'
 import { Footer } from '@components/Footer'
 import attendance from '@assets/icons/attendance.svg'
 import notice from '@assets/icons/notice.svg'
-import community from '@assets/icons/community.svg'
 
 
 export const SchMainPage = () => {
